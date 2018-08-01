@@ -1,0 +1,2 @@
+# kuwamai_avatar
+クワマイのアバター
